@@ -190,23 +190,24 @@ li.repo h3 {
   border-right-color: #333;
 }
 
-/* was scala */
 .repo.c#:after {
-  border-right-color: #7ac9de;
+  border-right-color: #178600;
 }
 
-/* was ruby */
 .repo.c:after {
-  border-right-color: #cc1100;
+  border-right-color: #555555;
 }
 
-/* was java */
 .repo.labview:after {
-  border-right-color: #cc8300;
+  border-right-color: #ffffc0;
 }
 
 .repo.python:after {
-  border-right-color: #6aad2d;
+  border-right-color: #3572A5;
+}
+
+.repo.html:after {
+  border-right-color: #e44b23;
 }
 
 @keyframes small-swing { 0% { margin-top: 0 } 50% { margin-top: -10px } 100% { margin-top: 0 } }
