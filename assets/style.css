@@ -68,9 +68,11 @@ a:hover {
 #logo {
   width: 190px;
   height: 46px;
-  margin: 15px 0 0 15px;
   background: url("NILogo.png");
   text-indent: -99999px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 20px auto 0px auto;
 }
 
 #logo h1 {
