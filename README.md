@@ -1,7 +1,7 @@
-ni.github.com
+ni.github.io
 =============
 
-The source code of http://ni.github.io/
+Find out more about NI open source projects at https://ni.github.io/landing-page
 
 LICENSE
 -------
