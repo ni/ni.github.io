@@ -1,7 +1,7 @@
 ni.github.io
 =============
 
-Find out more about NI open source projects at https://ni.github.io/landing-page
+Find out more about NI open source projects at https://www.ni.dev
 
 LICENSE
 -------
